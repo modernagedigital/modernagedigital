@@ -110,5 +110,9 @@
       "$type": "color",
       "$value": "{Slate.Dark.2}"
     }
+  },
+  "Theme": {
+    "$type": "text",
+    "$value": "Light"
   }
 }
