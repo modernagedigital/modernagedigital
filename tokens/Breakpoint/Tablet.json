@@ -2,5 +2,9 @@
   "active-breakpoint": {
     "$type": "other",
     "$value": "{breakpoint.tablet}"
+  },
+  "Breakpoint name": {
+    "$type": "text",
+    "$value": "Tablet"
   }
 }

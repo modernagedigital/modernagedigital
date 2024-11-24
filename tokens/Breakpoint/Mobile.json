@@ -2,5 +2,9 @@
   "active-breakpoint": {
     "$type": "other",
     "$value": "{breakpoint.mobile-portrait}"
+  },
+  "Breakpoint name": {
+    "$type": "text",
+    "$value": "Mobile Portrait"
   }
 }
