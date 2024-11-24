@@ -19,6 +19,10 @@
       "$type": "fontWeights",
       "$value": "400"
     },
+    "roman": {
+      "$type": "fontWeights",
+      "$value": "Roman No.2"
+    },
     "medium": {
       "$type": "fontWeights",
       "$value": "500"
@@ -34,7 +38,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{Font-Family.display}",
-        "fontWeight": "{Font-Weight.medium}",
+        "fontWeight": "{Font-Weight.roman}",
         "lineHeight": "{Line-Height.tighter}",
         "letterSpacing": "{Letter Spacing.tighter}",
         "fontSize": "{Font-Size.7xl}"
@@ -44,7 +48,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{Font-Family.display}",
-        "fontWeight": "{Font-Weight.medium}",
+        "fontWeight": "{Font-Weight.roman}",
         "lineHeight": "{Line-Height.tighter}",
         "fontSize": "{Font-Size.6xl}",
         "letterSpacing": "{Letter Spacing.tight}"
