@@ -509,6 +509,108 @@
       }
     }
   },
+  "Mint": {
+    "Light": {
+      "1": {
+        "$type": "color",
+        "$value": "#F9FEFD"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#F2FBF9"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#DDF9F2"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#C8F4E9"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#B3ECDE"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#9CE0D0"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#7ECFBD"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#4CBBA5"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#86EAD4"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#7DE0CB"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#027864"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#16433C"
+      }
+    },
+    "Dark": {
+      "1": {
+        "$type": "color",
+        "$value": "#0E1515"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#0F1B1B"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#092C2B"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#003A38"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#004744"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#105650"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#1E685F"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#277F70"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#86EAD4"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#A8F5E5"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#58D5BA"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#C4F5E1"
+      }
+    }
+  },
   "White": {
     "$type": "color",
     "$value": "#FFFFFF"
