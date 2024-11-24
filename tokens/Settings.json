@@ -1,0 +1,162 @@
+{
+  "fixed-space-base": {
+    "value": "4",
+    "type": "other"
+  },
+  "space": {
+    "min": {
+      "value": "24",
+      "type": "other"
+    },
+    "max": {
+      "value": "32",
+      "type": "other"
+    }
+  },
+  "type": {
+    "ratio": {
+      "min": {
+        "value": "1.125",
+        "type": "other",
+        "description": "Type scaling ratio for small screens"
+      },
+      "max": {
+        "value": "1.225",
+        "type": "other",
+        "description": "Type scaling ratio for large screens"
+      }
+    },
+    "min": {
+      "xs": {
+        "value": "12",
+        "type": "other"
+      },
+      "sm": {
+        "value": "14",
+        "type": "other"
+      },
+      "base": {
+        "value": "{type.baseSize.min}",
+        "type": "other"
+      },
+      "lg": {
+        "value": "{type.baseSize.min} * {type.ratio.min}",
+        "type": "other"
+      },
+      "xl": {
+        "value": "{type.min.lg} * {type.ratio.min}",
+        "type": "other"
+      },
+      "2xl": {
+        "value": "{type.min.xl} * {type.ratio.min}",
+        "type": "other"
+      },
+      "3xl": {
+        "value": "{type.min.2xl} * {type.ratio.min}",
+        "type": "other"
+      },
+      "4xl": {
+        "value": "{type.min.3xl} * {type.ratio.min}",
+        "type": "other"
+      },
+      "5xl": {
+        "value": "{type.min.4xl} * {type.ratio.min}",
+        "type": "other"
+      },
+      "6xl": {
+        "value": "{type.min.5xl} * {type.ratio.min}",
+        "type": "other"
+      },
+      "7xl": {
+        "value": "{type.min.6xl} * {type.ratio.min}",
+        "type": "other"
+      }
+    },
+    "baseSize": {
+      "min": {
+        "value": "16",
+        "type": "other"
+      },
+      "max": {
+        "value": "18",
+        "type": "other"
+      }
+    },
+    "max": {
+      "xs": {
+        "value": "13",
+        "type": "other"
+      },
+      "sm": {
+        "value": "16",
+        "type": "other"
+      },
+      "base": {
+        "value": "{type.baseSize.max}",
+        "type": "other"
+      },
+      "lg": {
+        "value": "{type.baseSize.max} * {type.ratio.max}",
+        "type": "other"
+      },
+      "xl": {
+        "value": "{type.max.lg} * {type.ratio.max}",
+        "type": "other"
+      },
+      "2xl": {
+        "value": "{type.max.xl} * {type.ratio.max}",
+        "type": "other"
+      },
+      "3xl": {
+        "value": "{type.max.2xl} * {type.ratio.max}",
+        "type": "other"
+      },
+      "4xl": {
+        "value": "{type.max.3xl} * {type.ratio.max}",
+        "type": "other"
+      },
+      "5xl": {
+        "value": "{type.max.4xl} * {type.ratio.max}",
+        "type": "other"
+      },
+      "6xl": {
+        "value": "{type.max.5xl} * {type.ratio.max}",
+        "type": "other"
+      },
+      "7xl": {
+        "value": "{type.max.6xl} * {type.ratio.max}",
+        "type": "other"
+      }
+    }
+  },
+  "active-breakpoint": {
+    "value": "{breakpoint.desktop}",
+    "type": "other"
+  },
+  "screen-location": {
+    "value": "(({active-breakpoint} - {breakpoint.mobile-portrait}) / ( {breakpoint.desktop} - {breakpoint.mobile-portrait}))",
+    "type": "other"
+  },
+  "space-calc": {
+    "value": "(((({space.max} - {space.min}) * {screen-location}) + {space.min}))",
+    "type": "other"
+  },
+  "breakpoint": {
+    "mobile-portrait": {
+      "value": "390",
+      "type": "other"
+    },
+    "mobile-landscape": {
+      "value": "480",
+      "type": "other"
+    },
+    "tablet": {
+      "value": "768",
+      "type": "other"
+    },
+    "desktop": {
+      "value": "1280",
+      "type": "other"
+    }
+  }
+}
