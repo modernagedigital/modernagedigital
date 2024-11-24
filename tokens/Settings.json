@@ -17,7 +17,7 @@
     "ratio": {
       "min": {
         "$type": "other",
-        "$value": "1.125",
+        "$value": "1.13",
         "$description": "Type scaling ratio for small screens"
       },
       "max": {
