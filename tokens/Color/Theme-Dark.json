@@ -1,60 +1,70 @@
 {
-  "Color": {
+  "Text": {
+    "Main": {
+      "$type": "color",
+      "$value": "{Slate.Dark.12}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Slate.Dark.12}"
+    },
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Slate.Dark.11}"
+    }
+  },
+  "Background": {
+    "Main": {
+      "$type": "color",
+      "$value": "{Slate.Dark.2}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Slate.Dark.1}"
+    },
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Slate.Dark.3}"
+    }
+  },
+  "Accent-1": {
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Pink.Light.11}"
+    },
     "Text": {
-      "Main": {
-        "$type": "color",
-        "$value": "{Slate.Dark.12}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Slate.Dark.12}"
-      },
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Slate.Dark.11}"
-      }
+      "$type": "color",
+      "$value": "{Pink.Light.1}"
+    }
+  },
+  "Accent-2": {
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Sky.Dark.8}"
     },
-    "Background": {
-      "Main": {
-        "$type": "color",
-        "$value": "{Slate.Dark.2}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Slate.Dark.1}"
-      },
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Slate.Dark.3}"
-      }
+    "Text": {
+      "$type": "color",
+      "$value": "{Sky.Light.1}"
+    }
+  },
+  "Accent-3": {
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Lime.Light.11}"
     },
-    "Accent-1": {
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Pink.Dark.9}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Pink.Dark.11}"
-      },
-      "Text": {
-        "$type": "color",
-        "$value": "{Pink.Dark.3}"
-      }
+    "Text": {
+      "$type": "color",
+      "$value": "{White}"
+    }
+  },
+  "Accent-4": {
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Yellow.Light.11}"
     },
-    "Accent-2": {
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Sky.Dark.9}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Sky.Dark.11}"
-      },
-      "Text": {
-        "$type": "color",
-        "$value": "{Sky.Dark.3}"
-      }
+    "Text": {
+      "$type": "color",
+      "$value": "{White}"
     }
   }
 }

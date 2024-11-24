@@ -1,118 +1,86 @@
 {
-  "Color": {
+  "Text": {
+    "Main": {
+      "$type": "color",
+      "$value": "{Slate.Light.12}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Slate.Dark.2}"
+    },
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Slate.Light.11}"
+    }
+  },
+  "Background": {
+    "Main": {
+      "$type": "color",
+      "$value": "{Slate.Light.2}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Slate.Light.1}"
+    },
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Slate.Light.3}"
+    }
+  },
+  "Accent-1": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Pink.Light.9}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Pink.Dark.10}"
+    },
     "Text": {
-      "Main": {
-        "$type": "color",
-        "$value": "{Slate.Light.12}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Slate.Dark.2}"
-      },
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Slate.Light.11}"
-      }
+      "$type": "color",
+      "$value": "{Pink.Dark.2}"
+    }
+  },
+  "Accent-2": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Sky.Light.9}"
     },
-    "Background": {
-      "Main": {
-        "$type": "color",
-        "$value": "{Slate.Light.2}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Slate.Light.1}"
-      },
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Slate.Light.3}"
-      }
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Sky.Light.10}"
     },
-    "Accent-1": {
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Pink.Light.9}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Pink.Light.11}"
-      },
-      "Text": {
-        "$type": "color",
-        "$value": "{Pink.Light.3}"
-      }
+    "Text": {
+      "$type": "color",
+      "$value": "{Sky.Dark.3}"
+    }
+  },
+  "Accent-3": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Lime.Light.9}"
     },
-    "Accent-2": {
-      "Chroma": {
-        "$type": "color",
-        "$value": "{Sky.Light.9}"
-      },
-      "Contrast": {
-        "$type": "color",
-        "$value": "{Sky.Light.11}"
-      },
-      "Text": {
-        "$type": "color",
-        "$value": "{Sky.Light.3}"
-      }
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Lime.Light.10}"
     },
-    "Fixed": {
-      "Text": {
-        "Main": {
-          "$type": "color",
-          "$value": "{Slate.Light.12}"
-        },
-        "Contrast": {
-          "$type": "color",
-          "$value": "{Slate.Dark.2}"
-        },
-        "Chroma": {
-          "$type": "color",
-          "$value": "{Slate.Light.11}"
-        }
-      },
-      "Background": {
-        "Main": {
-          "$type": "color",
-          "$value": "{Slate.Light.2}"
-        },
-        "Contrast": {
-          "$type": "color",
-          "$value": "{Slate.Light.1}"
-        },
-        "Chroma": {
-          "$type": "color",
-          "$value": "{Slate.Light.3}"
-        }
-      },
-      "Accent-1": {
-        "Chroma": {
-          "$type": "color",
-          "$value": "{Pink.Light.9}"
-        },
-        "Contrast": {
-          "$type": "color",
-          "$value": "{Pink.Light.11}"
-        },
-        "Text": {
-          "$type": "color",
-          "$value": "{Pink.Light.3}"
-        }
-      },
-      "Accent-2": {
-        "Chroma": {
-          "$type": "color",
-          "$value": "{Sky.Light.9}"
-        },
-        "Contrast": {
-          "$type": "color",
-          "$value": "{Sky.Light.11}"
-        },
-        "Text": {
-          "$type": "color",
-          "$value": "{Sky.Light.3}"
-        }
-      }
+    "Text": {
+      "$type": "color",
+      "$value": "{Lime.Dark.3}"
+    }
+  },
+  "Accent-4": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Mint.Light.9}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Mint.Light.10}"
+    },
+    "Text": {
+      "$type": "color",
+      "$value": "{Mint.Dark.4}"
     }
   }
 }

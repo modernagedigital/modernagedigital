@@ -508,5 +508,13 @@
         "$value": "#F6EEB4"
       }
     }
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#FFFFFF"
+  },
+  "Black": {
+    "$type": "color",
+    "$value": "#000000"
   }
 }
