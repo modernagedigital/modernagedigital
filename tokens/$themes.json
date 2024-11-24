@@ -22,7 +22,8 @@
       "shadow.md": "S:a6603404c30210f71e681763f3e13d06bfe642f0,",
       "shadow.lg": "S:3694d344ba4212e74d3496cee9d80aadd263901a,",
       "shadow.xl": "S:ccf9de12deaed32a7f73003768882e00c0f25e86,",
-      "shadow.2xl": "S:6fcf398bfb700b4c9b67482e96749e46ca2610fe,"
+      "shadow.2xl": "S:6fcf398bfb700b4c9b67482e96749e46ca2610fe,",
+      "font.eyebrow": "S:6e4eb081ca65af130136eda80690f3ee4bde7d21,"
     },
     "$figmaVariableReferences": {
       "Font-Family.display": "4de8c326c8e6618ffc25e758304f9c0d23e1f1ab",

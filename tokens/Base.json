@@ -80,6 +80,16 @@
         "letterSpacing": "{Letter Spacing.tighter}"
       }
     },
+    "eyebrow": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.light}",
+        "lineHeight": "{Line-Height.normal}",
+        "fontSize": "{Font-Size.2xl}",
+        "letterSpacing": "{Letter Spacing.tight}"
+      }
+    },
     "heading": {
       "$type": "typography",
       "$value": {
