@@ -42,5 +42,106 @@
       "$type": "color",
       "$value": "#DFE3E6"
     }
+  },
+  "Pink": {
+    "Light": {
+      "1": {
+        "$type": "color",
+        "$value": "#FFFCFE"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#FEF7FB"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#FEE9F5"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#FBDCEF"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#F6CEE7"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#EFBFDD"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#E7ACD0"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#DD93C2"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#D6409F"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#CF3897"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#C2298A"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#651249"
+      }
+    },
+    "Dark": {
+      "1": {
+        "$type": "color",
+        "$value": "#191117"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#21121D"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#37172F"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#4B143D"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#591C47"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#692955"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#833869"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#A84885"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#D6409F"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#DE51A8"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#FF8DCC"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "#FDD1EA"
+    }
   }
 }
