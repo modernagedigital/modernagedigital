@@ -36,7 +36,7 @@
       "$type": "color",
       "$value": "{Pink.Dark.10}"
     },
-    "Text": {
+    "Deep": {
       "$type": "color",
       "$value": "{Pink.Dark.2}"
     }
@@ -44,13 +44,13 @@
   "Accent-2": {
     "Chroma": {
       "$type": "color",
-      "$value": "{Sky.Light.9}"
+      "$value": "{Sky.Light.10}"
     },
     "Contrast": {
       "$type": "color",
       "$value": "{Sky.Light.10}"
     },
-    "Text": {
+    "Deep": {
       "$type": "color",
       "$value": "{Sky.Dark.3}"
     }
@@ -58,18 +58,32 @@
   "Accent-3": {
     "Chroma": {
       "$type": "color",
-      "$value": "{Lime.Light.9}"
+      "$value": "{Lime.Light.10}"
     },
     "Contrast": {
       "$type": "color",
       "$value": "{Lime.Light.10}"
     },
-    "Text": {
+    "Deep": {
       "$type": "color",
       "$value": "{Lime.Dark.3}"
     }
   },
   "Accent-4": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Yellow.Light.9}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Yellow.Light.10}"
+    },
+    "Deep": {
+      "$type": "color",
+      "$value": "{Yellow.Dark.4}"
+    }
+  },
+  "Accent-5": {
     "Chroma": {
       "$type": "color",
       "$value": "{Mint.Light.9}"
@@ -78,9 +92,9 @@
       "$type": "color",
       "$value": "{Mint.Light.10}"
     },
-    "Text": {
+    "Deep": {
       "$type": "color",
-      "$value": "{Mint.Dark.4}"
+      "$value": "{Mint.Dark.6}"
     }
   }
 }
