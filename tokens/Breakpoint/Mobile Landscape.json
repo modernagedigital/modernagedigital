@@ -1,6 +1,6 @@
 {
   "active-breakpoint": {
-    "value": "{breakpoint.mobile-landscape}",
-    "type": "other"
+    "$type": "other",
+    "$value": "{breakpoint.mobile-landscape}"
   }
 }

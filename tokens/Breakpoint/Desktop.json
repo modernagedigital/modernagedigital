@@ -1,6 +1,6 @@
 {
   "active-breakpoint": {
-    "value": "{breakpoint.desktop}",
-    "type": "other"
+    "$type": "other",
+    "$value": "{breakpoint.desktop}"
   }
 }
