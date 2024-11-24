@@ -6,5 +6,10 @@
   "Breakpoint name": {
     "$type": "text",
     "$value": "Mobile Landscape"
+  },
+  "Viewport Size": {
+    "$type": "dimension",
+    "$value": "{Container.xs}",
+    "$description": "480px"
   }
 }

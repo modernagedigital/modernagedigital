@@ -6,5 +6,10 @@
   "Breakpoint name": {
     "$type": "text",
     "$value": "Tablet"
+  },
+  "Viewport Size": {
+    "$type": "dimension",
+    "$value": "{Container.md}",
+    "$description": "768px"
   }
 }

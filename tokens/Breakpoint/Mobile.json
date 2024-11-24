@@ -6,5 +6,10 @@
   "Breakpoint name": {
     "$type": "text",
     "$value": "Mobile Portrait"
+  },
+  "Viewport Size": {
+    "$type": "dimension",
+    "$value": "24.375rem",
+    "$description": "390px"
   }
 }
