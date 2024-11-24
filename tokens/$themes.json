@@ -233,6 +233,9 @@
       "Accent-4.Deep": "d8030a904e4042c07725d4d9b538bec014e2b1ef",
       "Accent-5.Contrast": "5a9b09fe765c462095f37cd8b4b98a7930f1d912",
       "Accent-5.Deep": "bcc3afb11754c6a2de84bcdb7604c78c6ddd5f88",
+      "Interaction.Main": "886d1c4184edd0d8c97e87007c0b5da1ceca083b",
+      "Interaction.Text": "d48324523ab7311c40dd1eb463192a94934db34e",
+      "Interaction.Border": "0af2ac26994ec4bf6048924017b7fb343411f00d",
       "Accent-1.Chroma": "9046ece818442d3fade28db5af749eeece3913e2",
       "Accent-2.Chroma": "7ac6f29df53911ff0ceb2fe0212acd26d0055e7a",
       "Accent-3.Chroma": "7352cf6c7e47667fee7557a988f2447d58c097d3",
@@ -275,7 +278,10 @@
       "Accent-4.Deep": "d8030a904e4042c07725d4d9b538bec014e2b1ef",
       "Accent-5.Chroma": "146259369bb45316b0113bb68e541b03ddad6974",
       "Accent-5.Contrast": "5a9b09fe765c462095f37cd8b4b98a7930f1d912",
-      "Accent-5.Deep": "bcc3afb11754c6a2de84bcdb7604c78c6ddd5f88"
+      "Accent-5.Deep": "bcc3afb11754c6a2de84bcdb7604c78c6ddd5f88",
+      "Interaction.Main": "886d1c4184edd0d8c97e87007c0b5da1ceca083b",
+      "Interaction.Text": "d48324523ab7311c40dd1eb463192a94934db34e",
+      "Interaction.Border": "0af2ac26994ec4bf6048924017b7fb343411f00d"
     },
     "group": "Color-Theme"
   }
