@@ -58,7 +58,7 @@
   "Accent-3": {
     "Chroma": {
       "$type": "color",
-      "$value": "{Lime.Light.10}"
+      "$value": "#a6f01c"
     },
     "Contrast": {
       "$type": "color",
