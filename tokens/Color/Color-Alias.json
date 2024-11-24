@@ -44,7 +44,7 @@
   "Accent-2": {
     "Chroma": {
       "$type": "color",
-      "$value": "{Sky.Light.10}"
+      "$value": "#0098cf"
     },
     "Contrast": {
       "$type": "color",
