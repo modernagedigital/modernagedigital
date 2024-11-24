@@ -137,5 +137,24 @@
       "$value": "80rem",
       "$description": "1280px"
     }
+  },
+  "Layout": {
+    "Pad X": {
+      "$type": "dimension",
+      "$value": "{Size.sm-lg}"
+    },
+    "Pad Y": {
+      "$type": "dimension",
+      "$value": "{Size.md}"
+    },
+    "Container-Max": {
+      "$type": "dimension",
+      "$value": "{Container.xl}",
+      "$description": "Max site width"
+    },
+    "Grid Gap": {
+      "$type": "dimension",
+      "$value": "{Size.sm}"
+    }
   }
 }
