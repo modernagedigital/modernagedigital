@@ -5,8 +5,7 @@
     "group": "Default",
     "selectedTokenSets": {
       "Base": "enabled",
-      "Settings": "source",
-      "Color/Color-Fixed": "disabled"
+      "Settings": "source"
     },
     "$figmaStyleReferences": {
       "font.headline": "S:8bfc677f67e08867218eb5352fc7dba5f6ea697e,",
@@ -44,8 +43,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Desktop": "enabled",
-      "Color/Color-Fixed": "disabled"
+      "Breakpoint/Desktop": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -93,8 +91,7 @@
     "selectedTokenSets": {
       "Breakpoint/Tablet": "enabled",
       "Settings": "source",
-      "Size": "enabled",
-      "Color/Color-Fixed": "disabled"
+      "Size": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -142,8 +139,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Breakpoint/Mobile Landscape": "enabled",
-      "Size": "enabled",
-      "Color/Color-Fixed": "disabled"
+      "Size": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -191,8 +187,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Mobile": "enabled",
-      "Color/Color-Fixed": "disabled"
+      "Breakpoint/Mobile": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -242,6 +237,73 @@
       "Color/Colorway-Light": "enabled",
       "Color/Color-Fixed": "enabled"
     },
-    "group": "Colorway"
+    "$figmaVariableReferences": {
+      "Colorway.Text.Main": "12832634e90fb655920e630776210354aa7b15e6",
+      "Colorway.Text.Contrast": "498c60de5770fb34bb1e34b4ffb8a3117e4542c4",
+      "Colorway.Text.Chroma": "aec0cd1157b761e3588ff3182b9a77ae3f802f7b",
+      "Colorway.Background.Main": "5a6dc4f5b32839e1b165cf55723f1926e07ec11e",
+      "Colorway.Background.Contrast": "1735c26aaf301f9b52dfd4e63b2361039c6342d8",
+      "Colorway.Background.Chroma": "5742bc07b2a8981a0aeaabfda0d077841487fc79",
+      "Colorway.Accent-1.Chroma": "159e72e7fc3e01acbfad9b1a1f434cc063164d7e",
+      "Colorway.Accent-1.Contrast": "90283ba8728df556b7df76a2b1caf448dc57886d",
+      "Colorway.Accent-1.Text": "0fdea2741675324c9fc7feb2135a5540ec923784",
+      "Colorway.Accent-2.Chroma": "6cafa48019b6ffbfab0698419441319cdd86143c",
+      "Colorway.Accent-2.Contrast": "b3ce67903e831385d983bba90632bddf8cc2016c",
+      "Colorway.Accent-2.Text": "0f509f744131dd68ba26c7a227dbd1c006d1aa13",
+      "Color-Fixed.Text.Main": "5baec4a174a8ee6e7fc49eb9ea04874b8a764ad4",
+      "Color-Fixed.Text.Contrast": "3e0109c4f7dafdf297837aa0a94917e86d2c41a8",
+      "Color-Fixed.Text.Chroma": "b233d971954fa803de226c6190b138b4abd26f3c",
+      "Color-Fixed.Background.Main": "cdd4dd061125489a51f63c4ee850c1a93a6e95b0",
+      "Color-Fixed.Background.Contrast": "eaf8fbecb0ca4ae9a85d33ea0991c5a1168c5fd7",
+      "Color-Fixed.Background.Chroma": "e3dd7687e5929c8211b9b75d029e93f909d60b29",
+      "Color-Fixed.Accent-1.Chroma": "c6d9537ee48814bda647783aa5a7dbf9e8fea6d8",
+      "Color-Fixed.Accent-1.Contrast": "33494d51da22304530f03b7f606d50cef76ee935",
+      "Color-Fixed.Accent-1.Text": "9c979ff2faade59df67f558ad5b9273a6c56ae8e",
+      "Color-Fixed.Accent-2.Chroma": "99f2b6432d1ceb8c2e71c1e1a180b67a6eb2ef25",
+      "Color-Fixed.Accent-2.Contrast": "aded8dd2a718eba4760b68a56a68d4ee2d5c3079",
+      "Color-Fixed.Accent-2.Text": "b203ea3788ddeb98da6dcf8dae42909381723d9c"
+    },
+    "group": "Color-Theme",
+    "$figmaCollectionId": "VariableCollectionId:6370:225",
+    "$figmaModeId": "6370:1"
+  },
+  {
+    "id": "a6ef2613f8eb21bed3f3f7a866d652de4896da92",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Color/Color-Base": "source",
+      "Color/Color-Fixed": "enabled",
+      "Color/Colorway-Dark": "enabled"
+    },
+    "group": "Color-Theme",
+    "$figmaCollectionId": "VariableCollectionId:6370:225",
+    "$figmaModeId": "6370:2",
+    "$figmaVariableReferences": {
+      "Colorway.Text.Main": "12832634e90fb655920e630776210354aa7b15e6",
+      "Colorway.Text.Contrast": "498c60de5770fb34bb1e34b4ffb8a3117e4542c4",
+      "Colorway.Text.Chroma": "aec0cd1157b761e3588ff3182b9a77ae3f802f7b",
+      "Colorway.Background.Main": "5a6dc4f5b32839e1b165cf55723f1926e07ec11e",
+      "Colorway.Background.Contrast": "1735c26aaf301f9b52dfd4e63b2361039c6342d8",
+      "Colorway.Background.Chroma": "5742bc07b2a8981a0aeaabfda0d077841487fc79",
+      "Colorway.Accent-1.Chroma": "159e72e7fc3e01acbfad9b1a1f434cc063164d7e",
+      "Colorway.Accent-1.Contrast": "90283ba8728df556b7df76a2b1caf448dc57886d",
+      "Colorway.Accent-1.Text": "0fdea2741675324c9fc7feb2135a5540ec923784",
+      "Colorway.Accent-2.Chroma": "6cafa48019b6ffbfab0698419441319cdd86143c",
+      "Colorway.Accent-2.Contrast": "b3ce67903e831385d983bba90632bddf8cc2016c",
+      "Colorway.Accent-2.Text": "0f509f744131dd68ba26c7a227dbd1c006d1aa13",
+      "Color-Fixed.Text.Main": "5baec4a174a8ee6e7fc49eb9ea04874b8a764ad4",
+      "Color-Fixed.Text.Contrast": "3e0109c4f7dafdf297837aa0a94917e86d2c41a8",
+      "Color-Fixed.Text.Chroma": "b233d971954fa803de226c6190b138b4abd26f3c",
+      "Color-Fixed.Background.Main": "cdd4dd061125489a51f63c4ee850c1a93a6e95b0",
+      "Color-Fixed.Background.Contrast": "eaf8fbecb0ca4ae9a85d33ea0991c5a1168c5fd7",
+      "Color-Fixed.Background.Chroma": "e3dd7687e5929c8211b9b75d029e93f909d60b29",
+      "Color-Fixed.Accent-1.Chroma": "c6d9537ee48814bda647783aa5a7dbf9e8fea6d8",
+      "Color-Fixed.Accent-1.Contrast": "33494d51da22304530f03b7f606d50cef76ee935",
+      "Color-Fixed.Accent-1.Text": "9c979ff2faade59df67f558ad5b9273a6c56ae8e",
+      "Color-Fixed.Accent-2.Chroma": "99f2b6432d1ceb8c2e71c1e1a180b67a6eb2ef25",
+      "Color-Fixed.Accent-2.Contrast": "aded8dd2a718eba4760b68a56a68d4ee2d5c3079",
+      "Color-Fixed.Accent-2.Text": "b203ea3788ddeb98da6dcf8dae42909381723d9c"
+    }
   }
 ]

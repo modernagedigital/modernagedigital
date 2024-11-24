@@ -6,6 +6,7 @@
     "Color/Color-Base",
     "Color/Color-Fixed",
     "Color/Colorway-Light",
+    "Color/Colorway-Dark",
     "Breakpoint/Desktop",
     "Breakpoint/Tablet",
     "Breakpoint/Mobile Landscape",
