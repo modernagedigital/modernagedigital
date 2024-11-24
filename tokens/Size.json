@@ -155,6 +155,10 @@
     "Grid Gap": {
       "$type": "dimension",
       "$value": "{Size.sm}"
+    },
+    "Grid Columns": {
+      "$type": "number",
+      "$value": "12"
     }
   }
 }

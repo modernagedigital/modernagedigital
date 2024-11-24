@@ -11,5 +11,11 @@
     "$type": "dimension",
     "$value": "24.375rem",
     "$description": "390px"
+  },
+  "Layout": {
+    "Grid Columns": {
+      "$type": "number",
+      "$value": "4"
+    }
   }
 }

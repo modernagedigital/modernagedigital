@@ -49,6 +49,7 @@
     "$figmaVariableReferences": {
       "Breakpoint name": "fb0e5317861a4ca92bc5decb12b0bcc0b39719cb",
       "Viewport Size": "8ad381fcc1bd7a0f2e252968fdd9475721e83af3",
+      "Layout.Grid Columns": "1ed55d3ab3f4fd02e3f5e113be80e89734c5bc7b",
       "Font-Size.xs": "fc79e36847b0dec87344163f7b2dfe2eb70c57c2",
       "Font-Size.sm": "a28d56dcb3a4c0e413a7d834f5adc422c6ceb721",
       "Font-Size.base": "3bfea3346503502bda0980e3ea9280642fac4c82",
@@ -102,6 +103,7 @@
     "$figmaVariableReferences": {
       "Breakpoint name": "fb0e5317861a4ca92bc5decb12b0bcc0b39719cb",
       "Viewport Size": "8ad381fcc1bd7a0f2e252968fdd9475721e83af3",
+      "Layout.Grid Columns": "1ed55d3ab3f4fd02e3f5e113be80e89734c5bc7b",
       "Font-Size.xs": "fc79e36847b0dec87344163f7b2dfe2eb70c57c2",
       "Font-Size.sm": "a28d56dcb3a4c0e413a7d834f5adc422c6ceb721",
       "Font-Size.base": "3bfea3346503502bda0980e3ea9280642fac4c82",
@@ -156,6 +158,7 @@
     "$figmaVariableReferences": {
       "Breakpoint name": "fb0e5317861a4ca92bc5decb12b0bcc0b39719cb",
       "Viewport Size": "8ad381fcc1bd7a0f2e252968fdd9475721e83af3",
+      "Layout.Grid Columns": "1ed55d3ab3f4fd02e3f5e113be80e89734c5bc7b",
       "Font-Size.xs": "fc79e36847b0dec87344163f7b2dfe2eb70c57c2",
       "Font-Size.sm": "a28d56dcb3a4c0e413a7d834f5adc422c6ceb721",
       "Font-Size.base": "3bfea3346503502bda0980e3ea9280642fac4c82",
@@ -244,7 +247,8 @@
       "Layout.Pad X": "1e4de17b82a0ca1cbdfb336294424711f5bdd7af",
       "Layout.Pad Y": "ca93b5f15bdea86d9250467c1b15d9c34512737f",
       "Layout.Container-Max": "96fadf3d0e6037d98b4e2b254f8ba18767db5a36",
-      "Layout.Grid Gap": "9674302c88d2012b8d3847a53b003e0c2819cc76"
+      "Layout.Grid Gap": "9674302c88d2012b8d3847a53b003e0c2819cc76",
+      "Layout.Grid Columns": "1ed55d3ab3f4fd02e3f5e113be80e89734c5bc7b"
     },
     "$figmaCollectionId": "VariableCollectionId:6389:326",
     "$figmaModeId": "6389:11"
