@@ -5,7 +5,9 @@
     "group": "Default",
     "selectedTokenSets": {
       "Base": "enabled",
-      "Settings": "source"
+      "Settings": "source",
+      "Color/Color-Base": "disabled",
+      "Color/Colorway-Light": "disabled"
     },
     "$figmaStyleReferences": {
       "font.headline": "S:8bfc677f67e08867218eb5352fc7dba5f6ea697e,",
@@ -43,7 +45,9 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Desktop": "enabled"
+      "Breakpoint/Desktop": "enabled",
+      "Color/Color-Base": "disabled",
+      "Color/Colorway-Light": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -91,7 +95,9 @@
     "selectedTokenSets": {
       "Breakpoint/Tablet": "enabled",
       "Settings": "source",
-      "Size": "enabled"
+      "Size": "enabled",
+      "Color/Color-Base": "disabled",
+      "Color/Colorway-Light": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -139,7 +145,9 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Breakpoint/Mobile Landscape": "enabled",
-      "Size": "enabled"
+      "Size": "enabled",
+      "Color/Color-Base": "disabled",
+      "Color/Colorway-Light": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -187,7 +195,9 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Mobile": "enabled"
+      "Breakpoint/Mobile": "enabled",
+      "Color/Color-Base": "disabled",
+      "Color/Colorway-Light": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -227,5 +237,15 @@
     },
     "$figmaCollectionId": "VariableCollectionId:2480:10771",
     "$figmaModeId": "2480:26"
+  },
+  {
+    "id": "ab566e6d2ddab5e9671e45e2265a2f46a67442a0",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Color/Color-Base": "source",
+      "Color/Colorway-Light": "enabled"
+    },
+    "group": "Colorway"
   }
 ]

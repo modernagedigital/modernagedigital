@@ -1,0 +1,46 @@
+{
+  "Black": {
+    "1": {
+      "$type": "color",
+      "$value": "#202425"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "#1A1D1E"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "#151718"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "#0D0F0F"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "#040505"
+    }
+  },
+  "White": {
+    "1": {
+      "$type": "color",
+      "$value": "#FBFCFD"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "#F8F9FA"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "#F1F3F5"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "#ECEEF0"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "#DFE3E6"
+    }
+  }
+}

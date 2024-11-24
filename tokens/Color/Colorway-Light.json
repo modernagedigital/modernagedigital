@@ -1,0 +1,38 @@
+{
+  "Text": {
+    "Neutral": {
+      "Main": {
+        "$type": "color",
+        "$value": "{Black.3}"
+      },
+      "Contrast": {
+        "$type": "color",
+        "$value": "{Black.5}"
+      }
+    },
+    "Accent-1": {
+      "Main": {
+        "$type": "color",
+        "$value": "{Black.5}"
+      }
+    }
+  },
+  "Background": {
+    "Neutral": {
+      "Main": {
+        "$type": "color",
+        "$value": "{White.3}"
+      },
+      "Contrast": {
+        "$type": "color",
+        "$value": "{White.1}"
+      }
+    },
+    "Accent-1": {
+      "Main": {
+        "$type": "color",
+        "$value": "{Black.5}"
+      }
+    }
+  }
+}

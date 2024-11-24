@@ -3,6 +3,8 @@
     "Settings",
     "Base",
     "Size",
+    "Color/Color-Base",
+    "Color/Colorway-Light",
     "Breakpoint/Desktop",
     "Breakpoint/Tablet",
     "Breakpoint/Mobile Landscape",
