@@ -1,142 +1,142 @@
 {
   "font-size": {
     "xs": {
-      "value": "({type.max.xs} - {type.min.xs}) * {screen-location} + {type.min.xs}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.xs} - {type.min.xs}) * {screen-location} + {type.min.xs}"
     },
     "sm": {
-      "value": "({type.max.sm} - {type.min.sm}) * {screen-location} + {type.min.sm}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.sm} - {type.min.sm}) * {screen-location} + {type.min.sm}"
     },
     "base": {
-      "value": "({type.max.base} - {type.min.base}) * {screen-location} + {type.min.base}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.base} - {type.min.base}) * {screen-location} + {type.min.base}"
     },
     "lg": {
-      "value": "({type.max.lg} - {type.min.lg}) * {screen-location} + {type.min.lg}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.lg} - {type.min.lg}) * {screen-location} + {type.min.lg}"
     },
     "xl": {
-      "value": "({type.max.xl} - {type.min.xl}) * {screen-location} + {type.min.xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.xl} - {type.min.xl}) * {screen-location} + {type.min.xl}"
     },
     "2xl": {
-      "value": "({type.max.2xl} - {type.min.2xl}) * {screen-location} + {type.min.2xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.2xl} - {type.min.2xl}) * {screen-location} + {type.min.2xl}"
     },
     "3xl": {
-      "value": "({type.max.3xl} - {type.min.3xl}) * {screen-location} + {type.min.3xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.3xl} - {type.min.3xl}) * {screen-location} + {type.min.3xl}"
     },
     "4xl": {
-      "value": "({type.max.4xl} - {type.min.4xl}) * {screen-location} + {type.min.4xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.4xl} - {type.min.4xl}) * {screen-location} + {type.min.4xl}"
     },
     "5xl": {
-      "value": "({type.max.5xl} - {type.min.5xl}) * {screen-location} + {type.min.5xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.5xl} - {type.min.5xl}) * {screen-location} + {type.min.5xl}"
     },
     "6xl": {
-      "value": "({type.max.6xl} - {type.min.6xl}) * {screen-location} + {type.min.6xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.6xl} - {type.min.6xl}) * {screen-location} + {type.min.6xl}"
     },
     "7xl": {
-      "value": "({type.max.7xl} - {type.min.7xl}) * {screen-location} + {type.min.7xl}",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "({type.max.7xl} - {type.min.7xl}) * {screen-location} + {type.min.7xl}"
     }
   },
   "size": {
     "4xs": {
-      "value": "{space-calc} * 0.25",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 0.25"
     },
     "3xs": {
-      "value": "{space-calc} * 0.375",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 0.375"
     },
     "2xs": {
-      "value": "{space-calc} * 0.5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 0.5"
     },
     "xs": {
-      "value": "{space-calc} * 0.75",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 0.75"
     },
     "sm": {
-      "value": "{space-calc} * 1",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 1"
     },
     "md": {
-      "value": "{space-calc} * 1.25",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 1.25"
     },
     "lg": {
-      "value": "{space-calc} * 1.5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 1.5"
     },
     "xl": {
-      "value": "{space-calc} * 1.75",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 1.75"
     },
     "2xl": {
-      "value": "{space-calc} * 2",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 2"
     },
     "3xl": {
-      "value": "{space-calc} * 2.25",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 2.25"
     },
     "4xl": {
-      "value": "{space-calc} * 2.5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 2.5"
     },
     "5xl": {
-      "value": "{space-calc} * 2.75",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 2.75"
     },
     "6xl": {
-      "value": "{space-calc} * 3",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 3"
     },
     "7xl": {
-      "value": "{space-calc} * 3.5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 3.5"
     },
     "8xl": {
-      "value": "{space-calc} * 4",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 4"
     },
     "9xl": {
-      "value": "{space-calc} * 4.5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 4.5"
     },
     "10xl": {
-      "value": "{space-calc} * 5",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 5"
     },
     "12xl": {
-      "value": "{space-calc} * 6",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 6"
     },
     "14xl": {
-      "value": "{space-calc} * 7",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{space-calc} * 7"
     },
     "xs-md": {
-      "value": "(((({size.md} - {size.xs}) * {screen-location}) + {size.xs}))",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "(((({size.md} - {size.xs}) * {screen-location}) + {size.xs}))"
     },
     "xs-sm": {
-      "value": "(((({size.sm} - {size.xs}) * {screen-location}) + {size.xs}))",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "(((({size.sm} - {size.xs}) * {screen-location}) + {size.xs}))"
     },
     "sm-md": {
-      "value": "(((({size.md} - {size.sm}) * {screen-location}) + {size.sm}))",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "(((({size.md} - {size.sm}) * {screen-location}) + {size.sm}))"
     },
     "sm-lg": {
-      "value": "(((({size.lg} - {size.sm}) * {screen-location}) + {size.sm}))",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "(((({size.lg} - {size.sm}) * {screen-location}) + {size.sm}))"
     }
   }
 }

@@ -1,162 +1,162 @@
 {
   "fixed-space-base": {
-    "value": "4",
-    "type": "other"
+    "$type": "other",
+    "$value": "4"
   },
   "space": {
     "min": {
-      "value": "24",
-      "type": "other"
+      "$type": "other",
+      "$value": "24"
     },
     "max": {
-      "value": "32",
-      "type": "other"
+      "$type": "other",
+      "$value": "32"
     }
   },
   "type": {
     "ratio": {
       "min": {
-        "value": "1.125",
-        "type": "other",
-        "description": "Type scaling ratio for small screens"
+        "$type": "other",
+        "$value": "1.125",
+        "$description": "Type scaling ratio for small screens"
       },
       "max": {
-        "value": "1.225",
-        "type": "other",
-        "description": "Type scaling ratio for large screens"
+        "$type": "other",
+        "$value": "1.225",
+        "$description": "Type scaling ratio for large screens"
       }
     },
     "min": {
       "xs": {
-        "value": "12",
-        "type": "other"
+        "$type": "other",
+        "$value": "12"
       },
       "sm": {
-        "value": "14",
-        "type": "other"
+        "$type": "other",
+        "$value": "14"
       },
       "base": {
-        "value": "{type.baseSize.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.baseSize.min}"
       },
       "lg": {
-        "value": "{type.baseSize.min} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.baseSize.min} * {type.ratio.min}"
       },
       "xl": {
-        "value": "{type.min.lg} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.lg} * {type.ratio.min}"
       },
       "2xl": {
-        "value": "{type.min.xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.xl} * {type.ratio.min}"
       },
       "3xl": {
-        "value": "{type.min.2xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.2xl} * {type.ratio.min}"
       },
       "4xl": {
-        "value": "{type.min.3xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.3xl} * {type.ratio.min}"
       },
       "5xl": {
-        "value": "{type.min.4xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.4xl} * {type.ratio.min}"
       },
       "6xl": {
-        "value": "{type.min.5xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.5xl} * {type.ratio.min}"
       },
       "7xl": {
-        "value": "{type.min.6xl} * {type.ratio.min}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.min.6xl} * {type.ratio.min}"
       }
     },
     "baseSize": {
       "min": {
-        "value": "16",
-        "type": "other"
+        "$type": "other",
+        "$value": "16"
       },
       "max": {
-        "value": "18",
-        "type": "other"
+        "$type": "other",
+        "$value": "18"
       }
     },
     "max": {
       "xs": {
-        "value": "13",
-        "type": "other"
+        "$type": "other",
+        "$value": "13"
       },
       "sm": {
-        "value": "16",
-        "type": "other"
+        "$type": "other",
+        "$value": "16"
       },
       "base": {
-        "value": "{type.baseSize.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.baseSize.max}"
       },
       "lg": {
-        "value": "{type.baseSize.max} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.baseSize.max} * {type.ratio.max}"
       },
       "xl": {
-        "value": "{type.max.lg} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.lg} * {type.ratio.max}"
       },
       "2xl": {
-        "value": "{type.max.xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.xl} * {type.ratio.max}"
       },
       "3xl": {
-        "value": "{type.max.2xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.2xl} * {type.ratio.max}"
       },
       "4xl": {
-        "value": "{type.max.3xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.3xl} * {type.ratio.max}"
       },
       "5xl": {
-        "value": "{type.max.4xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.4xl} * {type.ratio.max}"
       },
       "6xl": {
-        "value": "{type.max.5xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.5xl} * {type.ratio.max}"
       },
       "7xl": {
-        "value": "{type.max.6xl} * {type.ratio.max}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{type.max.6xl} * {type.ratio.max}"
       }
     }
   },
   "active-breakpoint": {
-    "value": "{breakpoint.desktop}",
-    "type": "other"
+    "$type": "other",
+    "$value": "{breakpoint.desktop}"
   },
   "screen-location": {
-    "value": "(({active-breakpoint} - {breakpoint.mobile-portrait}) / ( {breakpoint.desktop} - {breakpoint.mobile-portrait}))",
-    "type": "other"
+    "$type": "other",
+    "$value": "(({active-breakpoint} - {breakpoint.mobile-portrait}) / ( {breakpoint.desktop} - {breakpoint.mobile-portrait}))"
   },
   "space-calc": {
-    "value": "(((({space.max} - {space.min}) * {screen-location}) + {space.min}))",
-    "type": "other"
+    "$type": "other",
+    "$value": "(((({space.max} - {space.min}) * {screen-location}) + {space.min}))"
   },
   "breakpoint": {
     "mobile-portrait": {
-      "value": "390",
-      "type": "other"
+      "$type": "other",
+      "$value": "390"
     },
     "mobile-landscape": {
-      "value": "480",
-      "type": "other"
+      "$type": "other",
+      "$value": "480"
     },
     "tablet": {
-      "value": "768",
-      "type": "other"
+      "$type": "other",
+      "$value": "768"
     },
     "desktop": {
-      "value": "1280",
-      "type": "other"
+      "$type": "other",
+      "$value": "1280"
     }
   }
 }
