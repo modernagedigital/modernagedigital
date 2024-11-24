@@ -1,5 +1,5 @@
 {
-  "font": {
+  "Font-Family": {
     "display": {
       "$type": "fontFamilies",
       "$value": "Dala Floda Trial"
@@ -8,7 +8,9 @@
       "$type": "fontFamilies",
       "$value": "Heebo",
       "$description": "Text font"
-    },
+    }
+  },
+  "Font-Weight": {
     "light": {
       "$type": "fontWeights",
       "$value": "300"
@@ -25,109 +27,111 @@
       "$type": "fontWeights",
       "$value": "Bold",
       "$description": "700"
-    },
+    }
+  },
+  "font": {
     "hero": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.display}",
-        "fontWeight": "{font.medium}",
-        "lineHeight": "{leading.tighter}",
-        "letterSpacing": "{tracking.tighter}",
-        "fontSize": "{font-size.7xl}"
+        "fontFamily": "{Font-Family.display}",
+        "fontWeight": "{Font-Weight.medium}",
+        "lineHeight": "{Line-Height.tighter}",
+        "letterSpacing": "{Letter Spacing.tighter}",
+        "fontSize": "{Font-Size.7xl}"
       }
     },
     "headline": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.display}",
-        "fontWeight": "{font.medium}",
-        "lineHeight": "{leading.tighter}",
-        "fontSize": "{font-size.6xl}",
-        "letterSpacing": "{tracking.tight}"
+        "fontFamily": "{Font-Family.display}",
+        "fontWeight": "{Font-Weight.medium}",
+        "lineHeight": "{Line-Height.tighter}",
+        "fontSize": "{Font-Size.6xl}",
+        "letterSpacing": "{Letter Spacing.tight}"
       }
     },
     "title1": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.display}",
-        "fontWeight": "{font.medium}",
-        "lineHeight": "{leading.tight}",
-        "fontSize": "{font-size.5xl}",
-        "letterSpacing": "{tracking.tight}"
+        "fontFamily": "{Font-Family.display}",
+        "fontWeight": "{Font-Weight.medium}",
+        "lineHeight": "{Line-Height.tight}",
+        "fontSize": "{Font-Size.5xl}",
+        "letterSpacing": "{Letter Spacing.tight}"
       }
     },
     "title2": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.display}",
-        "fontWeight": "{font.medium}",
-        "lineHeight": "{leading.tight}",
-        "fontSize": "{font-size.4xl}",
-        "letterSpacing": "{tracking.normal}"
+        "fontFamily": "{Font-Family.display}",
+        "fontWeight": "{Font-Weight.medium}",
+        "lineHeight": "{Line-Height.tight}",
+        "fontSize": "{Font-Size.4xl}",
+        "letterSpacing": "{Letter Spacing.normal}"
       }
     },
     "title3": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.display}",
-        "fontWeight": "{font.light}",
-        "lineHeight": "{leading.normal}",
-        "fontSize": "{font-size.3xl}",
-        "letterSpacing": "{tracking.tighter}"
+        "fontFamily": "{Font-Family.display}",
+        "fontWeight": "{Font-Weight.light}",
+        "lineHeight": "{Line-Height.normal}",
+        "fontSize": "{Font-Size.3xl}",
+        "letterSpacing": "{Letter Spacing.tighter}"
       }
     },
     "heading": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.text}",
-        "fontWeight": "{font.light}",
-        "lineHeight": "{leading.normal}",
-        "fontSize": "{font-size.xl}",
-        "letterSpacing": "{tracking.tight}"
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.light}",
+        "lineHeight": "{Line-Height.normal}",
+        "fontSize": "{Font-Size.xl}",
+        "letterSpacing": "{Letter Spacing.tight}"
       }
     },
     "subhead": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.text}",
-        "fontWeight": "{font.light}",
-        "lineHeight": "{leading.normal}",
-        "fontSize": "{font-size.lg}",
-        "letterSpacing": "{tracking.tight}"
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.light}",
+        "lineHeight": "{Line-Height.normal}",
+        "fontSize": "{Font-Size.lg}",
+        "letterSpacing": "{Letter Spacing.tight}"
       }
     },
     "body": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.text}",
-        "fontWeight": "{font.regular}",
-        "lineHeight": "{leading.normal}",
-        "fontSize": "{font-size.base}",
-        "letterSpacing": "{tracking.normal}"
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.regular}",
+        "lineHeight": "{Line-Height.normal}",
+        "fontSize": "{Font-Size.base}",
+        "letterSpacing": "{Letter Spacing.normal}"
       }
     },
     "footnote": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.text}",
-        "fontWeight": "{font.regular}",
-        "lineHeight": "{leading.relaxed}",
-        "fontSize": "{font-size.sm}",
-        "letterSpacing": "{tracking.wide}"
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.regular}",
+        "lineHeight": "{Line-Height.relaxed}",
+        "fontSize": "{Font-Size.sm}",
+        "letterSpacing": "{Letter Spacing.wide}"
       }
     },
     "micro": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{font.text}",
-        "fontWeight": "{font.regular}",
-        "lineHeight": "{leading.relaxed}",
-        "fontSize": "{font-size.xs}",
-        "letterSpacing": "{tracking.wider}"
+        "fontFamily": "{Font-Family.text}",
+        "fontWeight": "{Font-Weight.regular}",
+        "lineHeight": "{Line-Height.relaxed}",
+        "fontSize": "{Font-Size.xs}",
+        "letterSpacing": "{Letter Spacing.wider}"
       }
     }
   },
-  "leading": {
+  "Line-Height": {
     "none": {
       "$type": "lineHeights",
       "$value": "100%"
@@ -477,7 +481,7 @@
       ]
     }
   },
-  "tracking": {
+  "Letter Spacing": {
     "tighter": {
       "$type": "letterSpacing",
       "$value": "-1.5%"
