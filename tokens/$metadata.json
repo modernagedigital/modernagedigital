@@ -4,6 +4,7 @@
     "Base",
     "Size",
     "Color/Color-Base",
+    "Color/Color-Fixed",
     "Color/Colorway-Light",
     "Breakpoint/Desktop",
     "Breakpoint/Tablet",
