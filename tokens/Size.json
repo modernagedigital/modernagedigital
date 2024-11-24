@@ -110,5 +110,32 @@
       "$type": "dimension",
       "$value": "(((({Size.lg} - {Size.sm}) * {screen-location}) + {Size.sm}))"
     }
+  },
+  "Container": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "30rem",
+      "$description": "480px"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "40rem",
+      "$description": "640px"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "48rem",
+      "$description": "768px"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "64rem",
+      "$description": "1024px"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "80rem",
+      "$description": "1280px"
+    }
   }
 }
