@@ -512,5 +512,12 @@
       "$type": "letterSpacing",
       "$value": "2.5%"
     }
+  },
+  "Background": {
+    "Dot-Pattern": {
+      "$type": "asset",
+      "$value": "https://cdn.jsdelivr.net/gh/modernagedigital/modernagedigital@main/assets/dot-pattern.png",
+      "$description": "Background Dots"
+    }
   }
 }
