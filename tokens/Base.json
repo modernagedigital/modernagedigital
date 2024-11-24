@@ -55,7 +55,7 @@
       "$value": {
         "fontFamily": "{Font-Family.display}",
         "fontWeight": "{Font-Weight.medium}",
-        "lineHeight": "{Line-Height.tight}",
+        "lineHeight": "{Line-Height.tighter}",
         "fontSize": "{Font-Size.5xl}",
         "letterSpacing": "{Letter Spacing.tight}"
       }
