@@ -3,17 +3,15 @@
     "Neutral": {
       "Main": {
         "$type": "color",
-        "$value": "{Black.3}"
+        "$value": "{Slate.Light.12}"
       },
       "Contrast": {
         "$type": "color",
-        "$value": "{Black.5}"
-      }
-    },
-    "Accent-1": {
-      "Main": {
+        "$value": "{Slate.Dark.2}"
+      },
+      "Chroma": {
         "$type": "color",
-        "$value": "{Black.5}"
+        "$value": "{Slate.Light.11}"
       }
     }
   },
@@ -21,18 +19,30 @@
     "Neutral": {
       "Main": {
         "$type": "color",
-        "$value": "{White.3}"
+        "$value": "{Slate.Light.2}"
       },
       "Contrast": {
         "$type": "color",
-        "$value": "{White.1}"
-      }
-    },
-    "Accent-1": {
-      "Main": {
+        "$value": "{Slate.Light.1}"
+      },
+      "Chroma": {
         "$type": "color",
-        "$value": "{Black.5}"
+        "$value": "{Slate.Light.3}"
       }
+    }
+  },
+  "Accent-1": {
+    "Chroma": {
+      "$type": "color",
+      "$value": "{Pink.Light.9}"
+    },
+    "Contrast": {
+      "$type": "color",
+      "$value": "{Pink.Light.11}"
+    },
+    "Text": {
+      "$type": "color",
+      "$value": "{Pink.Light.1}"
     }
   }
 }
