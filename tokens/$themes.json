@@ -5,9 +5,7 @@
     "group": "Default",
     "selectedTokenSets": {
       "Base": "enabled",
-      "Settings": "source",
-      "Color/Color-Base": "disabled",
-      "Color/Colorway-Light": "disabled"
+      "Settings": "source"
     },
     "$figmaStyleReferences": {
       "font.headline": "S:8bfc677f67e08867218eb5352fc7dba5f6ea697e,",
@@ -45,9 +43,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Desktop": "enabled",
-      "Color/Color-Base": "disabled",
-      "Color/Colorway-Light": "disabled"
+      "Breakpoint/Desktop": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -95,9 +91,7 @@
     "selectedTokenSets": {
       "Breakpoint/Tablet": "enabled",
       "Settings": "source",
-      "Size": "enabled",
-      "Color/Color-Base": "disabled",
-      "Color/Colorway-Light": "disabled"
+      "Size": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -145,9 +139,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Breakpoint/Mobile Landscape": "enabled",
-      "Size": "enabled",
-      "Color/Color-Base": "disabled",
-      "Color/Colorway-Light": "disabled"
+      "Size": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -195,9 +187,7 @@
     "selectedTokenSets": {
       "Settings": "source",
       "Size": "enabled",
-      "Breakpoint/Mobile": "enabled",
-      "Color/Color-Base": "disabled",
-      "Color/Colorway-Light": "disabled"
+      "Breakpoint/Mobile": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
