@@ -159,6 +159,11 @@
     "Grid Columns": {
       "$type": "number",
       "$value": "12"
+    },
+    "Touch Target": {
+      "$type": "dimension",
+      "$value": "2.75rem",
+      "$description": "48px"
     }
   }
 }
