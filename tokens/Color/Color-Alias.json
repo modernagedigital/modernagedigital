@@ -34,7 +34,7 @@
     },
     "Contrast": {
       "$type": "color",
-      "$value": "{Pink.Dark.10}"
+      "$value": "{Pink.Dark.11}"
     },
     "Deep": {
       "$type": "color",
