@@ -145,7 +145,7 @@
     },
     "Pad Y": {
       "$type": "dimension",
-      "$value": "{Size.md}"
+      "$value": "{Size.xl}"
     },
     "Container-Max": {
       "$type": "dimension",
