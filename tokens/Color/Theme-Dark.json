@@ -94,5 +94,15 @@
   "Theme": {
     "$type": "text",
     "$value": "Dark"
+  },
+  "Neutral": {
+    "White": {
+      "$type": "color",
+      "$value": "{Black}"
+    },
+    "Black": {
+      "$type": "color",
+      "$value": "{White}"
+    }
   }
 }
