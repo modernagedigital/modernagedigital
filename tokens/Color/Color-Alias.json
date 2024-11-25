@@ -86,7 +86,7 @@
   "Accent-5": {
     "Chroma": {
       "$type": "color",
-      "$value": "{Mint.Light.9}"
+      "$value": "#55f8d4"
     },
     "Contrast": {
       "$type": "color",
