@@ -129,6 +129,18 @@
     "sm-lg": {
       "$type": "dimension",
       "$value": "(((({Size.lg} - {Size.sm}) * {screen-location}) + {Size.sm}))"
+    },
+    "sm-xl": {
+      "$type": "dimension",
+      "$value": "(((({Size.xl} - {Size.sm}) * {screen-location}) + {Size.sm}))"
+    },
+    "xl-2xl": {
+      "$type": "dimension",
+      "$value": "(((({Size.2xl} - {Size.xl}) * {screen-location}) + {Size.xl}))"
+    },
+    "xl-4xl": {
+      "$type": "dimension",
+      "$value": "(((({Size.4xl} - {Size.xl}) * {screen-location}) + {Size.xl}))"
     }
   },
   "Container": {
@@ -161,11 +173,11 @@
   "Layout": {
     "Pad X": {
       "$type": "dimension",
-      "$value": "{Size.sm-lg}"
+      "$value": "{Size.sm-xl}"
     },
     "Pad Y": {
       "$type": "dimension",
-      "$value": "{Size.xl}"
+      "$value": "{Size.xl-4xl}"
     },
     "Container-Max": {
       "$type": "dimension",
