@@ -94,6 +94,26 @@
       "$type": "dimension",
       "$value": "{space-calc} * 2.75"
     },
+    "6xl": {
+      "$type": "dimension",
+      "$value": "{space-calc} * 3"
+    },
+    "7xl": {
+      "$type": "dimension",
+      "$value": "{space-calc} * 3.5"
+    },
+    "8xl": {
+      "$type": "dimension",
+      "$value": "{space-calc} * 4"
+    },
+    "9xl": {
+      "$type": "dimension",
+      "$value": "{space-calc} * 5"
+    },
+    "10xl": {
+      "$type": "dimension",
+      "$value": "{space-calc} * 6"
+    },
     "xs-md": {
       "$type": "dimension",
       "$value": "(((({Size.md} - {Size.xs}) * {screen-location}) + {Size.xs}))"
