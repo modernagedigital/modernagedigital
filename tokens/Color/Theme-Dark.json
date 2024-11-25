@@ -16,15 +16,15 @@
   "Background": {
     "Main": {
       "$type": "color",
-      "$value": "{Slate.Light.12}"
+      "$value": "#181b1f"
     },
     "Contrast": {
       "$type": "color",
-      "$value": "#161a1d"
+      "$value": "#131719"
     },
     "Chroma": {
       "$type": "color",
-      "$value": "#202529"
+      "$value": "#1c2024"
     }
   },
   "Accent-1": {
