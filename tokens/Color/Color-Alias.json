@@ -124,5 +124,13 @@
       "$type": "color",
       "$value": "{Black}"
     }
+  },
+  "Components": {
+    "Image": {
+      "Image Frame": {
+        "$type": "color",
+        "$value": "{Neutral.White}"
+      }
+    }
   }
 }

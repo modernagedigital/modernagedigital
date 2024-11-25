@@ -104,5 +104,13 @@
       "$type": "color",
       "$value": "{White}"
     }
+  },
+  "Components": {
+    "Image": {
+      "Image Frame": {
+        "$type": "color",
+        "$value": "{Slate.Dark.2}"
+      }
+    }
   }
 }

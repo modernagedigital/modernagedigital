@@ -320,6 +320,7 @@
       "Theme": "0379f0fd16fdf3f82fc53fc64b2498e241ab0f8e",
       "Neutral.White": "08d3ec70a6559a40f23f3f0fea0721dece96ac70",
       "Neutral.Black": "89120b46ae661b7b8713a9c0260e3e3886f3aaf0",
+      "Components.Image.Image Frame": "02135aa421de1b1e24225a7bacb70306a872d834",
       "Accent-1.Chroma": "9046ece818442d3fade28db5af749eeece3913e2",
       "Accent-2.Chroma": "7ac6f29df53911ff0ceb2fe0212acd26d0055e7a",
       "Accent-3.Chroma": "7352cf6c7e47667fee7557a988f2447d58c097d3",
@@ -368,7 +369,8 @@
       "Interaction.Border": "0af2ac26994ec4bf6048924017b7fb343411f00d",
       "Theme": "0379f0fd16fdf3f82fc53fc64b2498e241ab0f8e",
       "Neutral.White": "08d3ec70a6559a40f23f3f0fea0721dece96ac70",
-      "Neutral.Black": "89120b46ae661b7b8713a9c0260e3e3886f3aaf0"
+      "Neutral.Black": "89120b46ae661b7b8713a9c0260e3e3886f3aaf0",
+      "Components.Image.Image Frame": "02135aa421de1b1e24225a7bacb70306a872d834"
     },
     "group": "Color-Theme"
   }
