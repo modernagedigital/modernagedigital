@@ -86,6 +86,10 @@
       "$type": "color",
       "$value": "{Slate.Dark.2}"
     },
+    "Alt": {
+      "$type": "color",
+      "$value": "{Slate.Dark.2}"
+    },
     "Border": {
       "$type": "color",
       "$value": "{Slate.Dark.12}"
