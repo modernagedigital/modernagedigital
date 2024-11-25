@@ -20,7 +20,7 @@
     },
     "Contrast": {
       "$type": "color",
-      "$value": "{Slate.Light.1}"
+      "$value": "{White}"
     },
     "Chroma": {
       "$type": "color",
