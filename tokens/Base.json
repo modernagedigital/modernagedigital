@@ -445,7 +445,7 @@
       "$type": "boxShadow",
       "$value": [
         {
-          "color": "#161a1d0f",
+          "color": "rgba(22,26,29,0.1)",
           "type": "dropShadow",
           "x": "0",
           "y": "0",
@@ -453,15 +453,7 @@
           "spread": "0"
         },
         {
-          "color": "#161a1d0f",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "4",
-          "blur": "10",
-          "spread": "0"
-        },
-        {
-          "color": "#161a1d0d",
+          "color": "rgba(22,26,29,0.1)",
           "type": "dropShadow",
           "x": "0",
           "y": "17",
@@ -469,23 +461,7 @@
           "spread": "0"
         },
         {
-          "color": "#161a1d08",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "39",
-          "blur": "24",
-          "spread": "0"
-        },
-        {
-          "color": "#161a1d03",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "70",
-          "blur": "28",
-          "spread": "0"
-        },
-        {
-          "color": "#161a1d00",
+          "color": "rgba(22,26,29,0.2)",
           "type": "dropShadow",
           "x": "0",
           "y": "109",
