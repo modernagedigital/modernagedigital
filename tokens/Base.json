@@ -440,35 +440,6 @@
           "spread": "0"
         }
       ]
-    },
-    "2xl": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "rgba(22,26,29,0.1)",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0"
-        },
-        {
-          "color": "rgba(22,26,29,0.1)",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "17",
-          "blur": "17",
-          "spread": "0"
-        },
-        {
-          "color": "rgba(22,26,29,0.2)",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "109",
-          "blur": "31",
-          "spread": "0"
-        }
-      ]
     }
   },
   "Letter Spacing": {
