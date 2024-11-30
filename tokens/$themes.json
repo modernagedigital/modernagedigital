@@ -17,9 +17,6 @@
       "font.footnote": "S:b760b5bf7c901048ba3d4076b6e1dd442bf95c8b,",
       "font.micro": "S:4b412024c7a6523456d3ca8d70559fb166ab793d,",
       "font.hero": "S:a11d7be6bf7eaf7c0567d70c5ad9a9c287ae92da,",
-      "shadow.sm": "S:76544477ed008b352afde868d93b26ef03f4e6ff,",
-      "shadow.base": "S:18d58c8529f3561577cf5c1f1af31c0c4c54b4cb,",
-      "shadow.md": "S:a6603404c30210f71e681763f3e13d06bfe642f0,",
       "shadow.lg": "S:3694d344ba4212e74d3496cee9d80aadd263901a,",
       "shadow.xl": "S:ccf9de12deaed32a7f73003768882e00c0f25e86,",
       "font.eyebrow": "S:6e4eb081ca65af130136eda80690f3ee4bde7d21,"
@@ -318,7 +315,6 @@
       "Interaction.Text": "d48324523ab7311c40dd1eb463192a94934db34e",
       "Interaction.Alt": "95832c31162c392d26e9a2f6c9f2bf3d7bb57d23",
       "Interaction.Border": "0af2ac26994ec4bf6048924017b7fb343411f00d",
-      "Theme": "0379f0fd16fdf3f82fc53fc64b2498e241ab0f8e",
       "Neutral.White": "08d3ec70a6559a40f23f3f0fea0721dece96ac70",
       "Neutral.Black": "89120b46ae661b7b8713a9c0260e3e3886f3aaf0",
       "Components.Image.Image Frame": "02135aa421de1b1e24225a7bacb70306a872d834",
@@ -369,7 +365,6 @@
       "Interaction.Text": "d48324523ab7311c40dd1eb463192a94934db34e",
       "Interaction.Alt": "95832c31162c392d26e9a2f6c9f2bf3d7bb57d23",
       "Interaction.Border": "0af2ac26994ec4bf6048924017b7fb343411f00d",
-      "Theme": "0379f0fd16fdf3f82fc53fc64b2498e241ab0f8e",
       "Neutral.White": "08d3ec70a6559a40f23f3f0fea0721dece96ac70",
       "Neutral.Black": "89120b46ae661b7b8713a9c0260e3e3886f3aaf0",
       "Components.Image.Image Frame": "02135aa421de1b1e24225a7bacb70306a872d834"
