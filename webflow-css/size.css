@@ -1,0 +1,240 @@
+:root {
+  /* Type Scale */
+  /* @link https://utopia.fyi/type/calculator?c=390,16,1.125,1280,18,1.225,8,1,768-480&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+  --font-size--xs: 0.75rem;
+  --font-size--sm: clamp(0.8889rem, 0.876rem + 0.053vw, 0.9184rem);
+  --font-size--base: clamp(1rem, 0.9452rem + 0.2247vw, 1.125rem);
+  --font-size--lg: clamp(1.125rem, 1.0141rem + 0.4551vw, 1.3781rem);
+  --font-size--xl: clamp(1.2656rem, 1.0805rem + 0.7597vw, 1.6882rem);
+  --font-size--2xl: clamp(1.4238rem, 1.1415rem + 1.1581vw, 2.068rem);
+  --font-size--3xl: clamp(1.6018rem, 1.1936rem + 1.6747vw, 2.5334rem);
+  --font-size--4xl: clamp(1.802rem, 1.2318rem + 2.3395vw, 3.1034rem);
+  --font-size--5xl: clamp(2.0273rem, 1.2498rem + 3.1898vw, 3.8016rem);
+  --font-size--6xl: clamp(2.2807rem, 1.2394rem + 4.272vw, 4.657rem);
+  --font-size--7xl: clamp(2.5658rem, 1.1903rem + 5.6432vw, 5.7048rem);
+
+  /* Size Scale */
+  /* @link https://utopia.fyi/space/calculator?c=390,24,1.2,1280,32,1.25,5,2,&s=0.75|0.5|0.375|0.25,1.25|1.5|1.75|2|2.25|2.5|2.75|3|3.5|4|5|6,xs-m|xs-s|s-m|s-l|s-xl|xl-2xl|xl-4xl&g=s,l,xl,12 */
+  --size--scale--4xs: clamp(0.375rem, 0.3202rem + 0.2247vw, 0.5rem);
+  --size--scale--3xs: clamp(0.5625rem, 0.4803rem + 0.3371vw, 0.75rem);
+  --size--scale--2xs: clamp(0.75rem, 0.6404rem + 0.4494vw, 1rem);
+  --size--scale--xs: clamp(1.125rem, 0.9607rem + 0.6742vw, 1.5rem);
+  --size--scale--sm: clamp(1.5rem, 1.2809rem + 0.8989vw, 2rem);
+  --size--scale--md: clamp(1.875rem, 1.6011rem + 1.1236vw, 2.5rem);
+  --size--scale--lg: clamp(2.25rem, 1.9213rem + 1.3483vw, 3rem);
+  --size--scale--xl: clamp(2.625rem, 2.2416rem + 1.573vw, 3.5rem);
+  --size--scale--2xl: clamp(3rem, 2.5618rem + 1.7978vw, 4rem);
+  --size--scale--3xl: clamp(3.375rem, 2.882rem + 2.0225vw, 4.5rem);
+  --size--scale--4xl: clamp(3.75rem, 3.2022rem + 2.2472vw, 5rem);
+  --size--scale--5xl: clamp(4.125rem, 3.5225rem + 2.4719vw, 5.5rem);
+  --size--scale--6xl: clamp(4.5rem, 3.8427rem + 2.6966vw, 6rem);
+  --size--scale--7xl: clamp(5.25rem, 4.4831rem + 3.1461vw, 7rem);
+  --size--scale--8xl: clamp(6rem, 5.1236rem + 3.5955vw, 8rem);
+  --size--scale--9xl: clamp(7.5rem, 6.4045rem + 4.4944vw, 10rem);
+  --size--scale--10xl: clamp(9rem, 7.6854rem + 5.3933vw, 12rem);
+
+  /* Custom pairs */
+  --size--scale--xs-md: clamp(1.125rem, 0.5225rem + 2.4719vw, 2.5rem);
+  --size--scale--xs-sm: clamp(1.125rem, 0.7416rem + 1.573vw, 2rem);
+  --size--scale--sm-md: clamp(1.5rem, 1.0618rem + 1.7978vw, 2.5rem);
+  --size--scale--sm-lg: clamp(1.5rem, 0.8427rem + 2.6966vw, 3rem);
+  --size--scale--sm-xl: clamp(1.5rem, 0.6236rem + 3.5955vw, 3.5rem);
+  --size--scale--xl-2xl: clamp(2.625rem, 2.0225rem + 2.4719vw, 4rem);
+  --size--scale--xl-4xl: clamp(2.625rem, 1.5843rem + 4.2697vw, 5rem);
+
+  /* Layout */
+  --size--layout--pad-x: var(--size--sm-xl);
+  --size--layout--pad-y: var(--size--xl-4xl);
+  --size--layout--grid-gap: var(--size--sm);
+  --size--layout--touch-target: 2.75rem;
+}
+
+/* Gap classes */
+.gap--3xs {
+  gap: var(--size--scale--3xs);
+}
+
+.gap--2xs {
+  gap: var(--size--scale--2xs);
+}
+
+.gap--xs {
+  gap: var(--size--scale--xs);
+}
+
+.gap--sm {
+  gap: var(--size--scale--sm);
+}
+
+.gap--md {
+  gap: var(--size--scale--md);
+}
+
+.gap--lg {
+  gap: var(--size--scale--lg);
+}
+
+.gap--xl {
+  gap: var(--size--scale--xl);
+}
+
+.gap--2xl {
+  gap: var(--size--scale--2xl);
+}
+
+.gap--3xl {
+  gap: var(--size--scale--3xl);
+}
+
+.gap--4xl {
+  gap: var(--size--scale--4xl);
+}
+
+.gap--5xl {
+  gap: var(--size--scale--5xl);
+}
+
+.gap--6xl {
+  gap: var(--size--scale--6xl);
+}
+
+.gap--7xl {
+  gap: var(--size--scale--7xl);
+}
+
+.gap--8xl {
+  gap: var(--size--scale--8xl);
+}
+
+.gap--9xl {
+  gap: var(--size--scale--9xl);
+}
+
+.gap--10xl {
+  gap: var(--size--scale--10xl);
+}
+
+.gap--xs-md {
+  gap: var(--size--scale--xs-md);
+}
+
+.gap--xs-sm {
+  gap: var(--size--scale--xs-sm);
+}
+
+.gap--sm-md {
+  gap: var(--size--scale--sm-md);
+}
+
+.gap--sm-lg {
+  gap: var(--size--scale--sm-lg);
+}
+
+.gap--sm-xl {
+  gap: var(--size--scale--sm-xl);
+}
+
+.gap--xl-2xl {
+  gap: var(--size--scale--xl-2xl);
+}
+
+.gap--xl-4xl {
+  gap: var(--size--scale--xl-4xl);
+}
+
+/* Space classes */
+.space-y--4xs > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--4xs);
+}
+
+.space-y--3xs > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--3xs);
+}
+
+.space-y--2xs > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--2xs);
+}
+
+.space-y--xs > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xs);
+}
+
+.space-y--sm > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--sm);
+}
+
+.space-y--md > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--md);
+}
+
+.space-y--lg > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--lg);
+}
+
+.space-y--xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xl);
+}
+
+.space-y--2xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--2xl);
+}
+
+.space-y--3xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--3xl);
+}
+
+.space-y--4xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--4xl);
+}
+
+.space-y--5xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--5xl);
+}
+
+.space-y--6xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--6xl);
+}
+
+.space-y--7xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--7xl);
+}
+
+.space-y--8xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--8xl);
+}
+
+.space-y--9xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--9xl);
+}
+
+.space-y--10xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--10xl);
+}
+
+.space-y--xs-md > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xs-md);
+}
+
+.space-y--xs-sm > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xs-sm);
+}
+
+.space-y--sm-md > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--sm-md);
+}
+
+.space-y--sm-lg > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--sm-lg);
+}
+
+.space-y--sm-xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--sm-xl);
+}
+
+.space-y--xl-2xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xl-2xl);
+}
+
+.space-y--xl-4xl > :not([hidden]) ~ :not([hidden]) {
+  margin-top: var(--size--scale--xl-4xl);
+}

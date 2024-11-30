@@ -1,0 +1,31 @@
+/* Color-Theme - Dark */
+:root {
+  --color--text--main: #edeef0;
+  --color--text--contrast: #edeef0;
+  --color--text--chroma: #b0b4ba;
+  --color--background--main: #181b1f;
+  --color--background--contrast: #121517;
+  --color--background--chroma: #1c2024;
+  --color--accent-1--contrast: #c2298a;
+  --color--accent-1--deep: #fffcfe;
+  --color--accent-2--contrast: #197cae;
+  --color--accent-2--deep: #f9feff;
+  --color--accent-3--contrast: #5c7c2f;
+  --color--accent-3--deep: #ffffff;
+  --color--accent-4--contrast: #9e6c00;
+  --color--accent-4--deep: #ffffff;
+  --color--accent-5--contrast: #027864;
+  --color--accent-5--deep: #ffffff;
+  --color--accent-1--chroma: #d6409f;
+  --color--accent-2--chroma: #0098cf;
+  --color--accent-3--chroma: #a6f01c;
+  --color--accent-4--chroma: #ffe629;
+  --color--accent-5--chroma: #17dcb2;
+  --color--interaction--main: #edeef0;
+  --color--interaction--text: #18191b;
+  --color--interaction--border: #edeef0;
+  --color--interaction-alt: #18191b;
+  --color--neutral--white: #000000;
+  --color--neutral--black: #ffffff;
+  --color--components--image-frame: #18191b;
+}
