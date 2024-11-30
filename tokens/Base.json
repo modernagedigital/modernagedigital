@@ -78,7 +78,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{Font-Family.display}",
-        "fontWeight": "{Font-Weight.light}",
+        "fontWeight": "{Font-Weight.medium}",
         "lineHeight": "{Line-Height.normal}",
         "fontSize": "{Font-Size.3xl}",
         "letterSpacing": "{Letter Spacing.tighter}"
