@@ -1,0 +1,16 @@
+{
+  "name": "modernagedigital",
+  "version": "1.0.0",
+  "description": "Source asserts for Modern Age Digital website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "svgo": "svgo -f ./svg -o ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^3.3.2"
+  }
+}
